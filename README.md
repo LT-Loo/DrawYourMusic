@@ -7,8 +7,8 @@ Draw Your Music is an interactive visualisation software that transforms drawing
 ### Note Customisation Based On Line Characteristics
 
 | Note Property | Line Characteristic | Explanation |
-| --- | --- | --- |
-| Note | Y-coordinate of its starting point. | The sketch board is divided into 12 sections, each representing a musical note from C to B. Note is assigned to a line if the staring point lies within its corresponding section. |
+| :---: | :---: | --- |
+| Note | Y-coordinate of its starting point | The sketch board is divided into 12 sections, each representing a musical note from C to B. Note is assigned to a line if the staring point lies within its corresponding section. |
 | Pitch | Thickness | The thicker the line, the lower the pitch. |
 | ADSR Effect | Colour & Length | The attack time (A), sustain level (S) and release time (R) of the note are influenced by the RGB values in the colour code, whereas the decay or sustain time (D) is affected by the length of line. |
 
@@ -16,7 +16,7 @@ Draw Your Music is an interactive visualisation software that transforms drawing
 Users can adjust the audio speed and volume by moving their hands closer or away from the camera lens.
 
 | Audio Property | Controlled By |
-| --- | --- |
+| :---: | --- |
 | Volume |  Hand on RIGHT screen |
 | Speed | Hand on LEFT screen |
 
